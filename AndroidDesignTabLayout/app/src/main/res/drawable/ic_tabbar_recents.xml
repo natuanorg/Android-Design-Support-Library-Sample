@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Non focused states -->
+    <item
+        android:left="2dp" android:right="4dp"
+        android:state_focused="false"
+        android:state_selected="false"
+        android:state_pressed="false"
+        android:drawable="@drawable/icon_tabbar_recents" />
+    <item
+        android:left="2dp" android:right="4dp"
+        android:state_focused="false"
+        android:state_selected="true"
+        android:state_pressed="false"
+        android:drawable="@drawable/icon_tabbar_recents_selected" />
+    <!-- Focused states -->
+    <item
+        android:left="2dp" android:right="4dp"
+        android:state_focused="true"
+        android:state_selected="false"
+        android:state_pressed="false"
+        android:drawable="@drawable/icon_tabbar_recents_selected" />
+    <item
+        android:left="2dp" android:right="4dp"
+        android:state_focused="true"
+        android:state_selected="true"
+        android:state_pressed="false"
+        android:drawable="@drawable/icon_tabbar_recents_selected" />
+    <!-- Pressed -->
+    <item
+        android:left="2dp" android:right="4dp"
+        android:state_pressed="true"
+        android:drawable="@drawable/icon_tabbar_recents_selected" />
+</selector>

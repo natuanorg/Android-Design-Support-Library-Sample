@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Design TabLayout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="library">Library</string>
+    <string name="recents">Recents</string>
+    <string name="favourites">favourites</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+</resources>
