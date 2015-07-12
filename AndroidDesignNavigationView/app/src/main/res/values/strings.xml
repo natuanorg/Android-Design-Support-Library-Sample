@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidDesignNavigationView</string>
+    <string name="home">Home</string>
+    <string name="sub">Sub Items</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="message">Messages</string>
+    <string name="friends">Friends</string>
+    <string name="discussion">Discusstion</string>
+</resources>
